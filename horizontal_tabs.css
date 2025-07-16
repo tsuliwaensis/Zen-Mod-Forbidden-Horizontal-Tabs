@@ -416,3 +416,7 @@ zen-workspace{
    overflow:hidden;
 }
 
+/*hide media buttons for now*/
+#zen-media-controls-toolbar{
+    display: none !important;
+}
